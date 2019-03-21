@@ -1,4 +1,3 @@
-# exam_1_activity
 # 验证activity的周期
 姓名：吴焰辉 学号123012016055
 
